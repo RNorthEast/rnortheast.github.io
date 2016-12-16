@@ -1,0 +1,24 @@
+---
+title: "Events"
+---
+
+
+
+Our next event is planned for February 2017. Details TBC
+
+## Past events
+
+Date        | Speakers | Topics          | Venue
+----------- | -------- | --------------- | -----
+12-Dec-16 | [Tim Brock](https://twitter.com/TimBrock_DtD) & [Rosie Hamilton](https://twitter.com/Rosicadia) | Assignments, Twitter mining and sentiment analysis |Campus North
+10-Oct-16   | [Siddhant Baviskar](https://twitter.com/siddhantfri3nds)| 1 year Birthday party | Campus North
+12-Sep-16   | [Colin Gillespie](https://twitter.com/csgillespie)| Optimising R and Benchmarkme package | Campus North 
+15-Aug-16   |          | Lean Coffee Discussion | Campus North
+11-Jul-16   |          | Lean Coffee Discussion | Campus North
+09-May-16   |[Tim Brock](https://twitter.com/TimBrock_DtD)| Introduction to Grid Graphics | Campus North
+11-Apr-16   |          | The apply family of functions | Campus North
+14-Mar-16   |          | Mapping | Campus North
+08-Feb-16   | Behrooz Mirmolavi | Mapping, rgdal and leaflet packages | Campus North
+11-Jan-16   | [Dennis Prangle](https://twitter.com/dennisprangle)  | Jupyter and lightning talks | Campus North
+14-Dec-15   |                 |                             | Campus North
+09-Nov-15   |                 | First meet up               | Campus North

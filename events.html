@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Events</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/simplex.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 41px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+
+.section h2 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h3 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h4 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h5 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h6 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">R North East</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="events.html">Events</a>
+</li>
+<li>
+  <a href="slides.html">Slides</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Events</h1>
+
+</div>
+
+
+<p>Our next event is planned for February 2017. Details TBC</p>
+<div id="past-events" class="section level2">
+<h2>Past events</h2>
+<table style="width:60%;">
+<colgroup>
+<col width="16%" />
+<col width="12%" />
+<col width="22%" />
+<col width="8%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Speakers</th>
+<th>Topics</th>
+<th>Venue</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>12-Dec-16</td>
+<td><a href="https://twitter.com/TimBrock_DtD">Tim Brock</a> &amp; <a href="https://twitter.com/Rosicadia">Rosie Hamilton</a></td>
+<td>Assignments, Twitter mining and sentiment analysis</td>
+<td>Campus North</td>
+</tr>
+<tr class="even">
+<td>10-Oct-16</td>
+<td><a href="https://twitter.com/siddhantfri3nds">Siddhant Baviskar</a></td>
+<td>1 year Birthday party</td>
+<td>Campus North</td>
+</tr>
+<tr class="odd">
+<td>12-Sep-16</td>
+<td><a href="https://twitter.com/csgillespie">Colin Gillespie</a></td>
+<td>Optimising R and Benchmarkme package</td>
+<td>Campus North</td>
+</tr>
+<tr class="even">
+<td>15-Aug-16</td>
+<td></td>
+<td>Lean Coffee Discussion</td>
+<td>Campus North</td>
+</tr>
+<tr class="odd">
+<td>11-Jul-16</td>
+<td></td>
+<td>Lean Coffee Discussion</td>
+<td>Campus North</td>
+</tr>
+<tr class="even">
+<td>09-May-16</td>
+<td><a href="https://twitter.com/TimBrock_DtD">Tim Brock</a></td>
+<td>Introduction to Grid Graphics</td>
+<td>Campus North</td>
+</tr>
+<tr class="odd">
+<td>11-Apr-16</td>
+<td></td>
+<td>The apply family of functions</td>
+<td>Campus North</td>
+</tr>
+<tr class="even">
+<td>14-Mar-16</td>
+<td></td>
+<td>Mapping</td>
+<td>Campus North</td>
+</tr>
+<tr class="odd">
+<td>08-Feb-16</td>
+<td>Behrooz Mirmolavi</td>
+<td>Mapping, rgdal and leaflet packages</td>
+<td>Campus North</td>
+</tr>
+<tr class="even">
+<td>11-Jan-16</td>
+<td><a href="https://twitter.com/dennisprangle">Dennis Prangle</a></td>
+<td>Jupyter and lightning talks</td>
+<td>Campus North</td>
+</tr>
+<tr class="odd">
+<td>14-Dec-15</td>
+<td></td>
+<td></td>
+<td>Campus North</td>
+</tr>
+<tr class="even">
+<td>09-Nov-15</td>
+<td></td>
+<td>First meet up</td>
+<td>Campus North</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<style>
+ .footer {
+    padding-top: 50px;
+    font-size: 24px;
+}
+</style>
+
+
+<div class="footer">R North East is sponsored by <a href="http://www.jumpingrivers.com">Jumping Rivers</a>.</div>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

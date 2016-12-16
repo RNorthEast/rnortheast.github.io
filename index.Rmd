@@ -1,0 +1,15 @@
+---
+title: "R North East"
+---
+<!-- http://rmarkdown.rstudio.com/rmarkdown_websites.html -->
+
+Welcome to the home of R North East an R user group based in Newcastle. 
+
+Here you'll find information about upcoming talks and [events](events.html). Our group usually meets up once every two months. 
+
+You can find us on Twitter [\@RstatsNE](https://twitter.com/RstatsNE)
+
+We are always looking for new speakers so please get in touch if you are interested in giving a talk at our meet up. 
+
+
+<div style="width:512px; height=384px"> ![](img/group.jpg) </div>
