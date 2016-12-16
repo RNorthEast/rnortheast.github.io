@@ -9,6 +9,8 @@ navbar:
       href: events.html
     - text: "Slides"
       href: slides.html
+    - text: "Slack"
+      href: https://rslackinviter.herokuapp.com/
 output:
   html_document:
     theme: simplex
