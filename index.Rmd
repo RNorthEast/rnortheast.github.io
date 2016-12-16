@@ -7,7 +7,7 @@ Welcome to the home of R North East an R user group based in Newcastle.
 
 Here you'll find information about upcoming talks and [events](events.html). Our group usually meets up once every two months. 
 
-You can find us on Twitter [\@RstatsNE](https://twitter.com/RstatsNE)
+You can find us on Twitter [\@RstatsNE](https://twitter.com/RstatsNE) and we also have a [Slack chat](https://rslackinviter.herokuapp.com/) 
 
 We are always looking for new speakers so please get in touch if you are interested in giving a talk at our meet up. 
 
