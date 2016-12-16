@@ -1,0 +1,11 @@
+---
+title: "Slides"
+---
+
+Here are slides from past talks
+
+
+Date        | Speaker  | Slides
+----------- | -------- | -------
+12-Dec-16   | [Tim Brock](https://twitter.com/TimBrock_DtD) | [Assignments in R](http://datatodisplay.com/scrapbook/assignments/)
+12-Dec-16   |  [Rosie Hamilton](https://twitter.com/Rosicadia) | [Twitter Mining & Sentiment Analysis](files/twittermining.odp)

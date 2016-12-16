@@ -1,0 +1,16 @@
+name: "r-newcastle"
+output_dir: "."
+navbar:
+  title: "R North East"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Events"
+      href: events.html
+    - text: "Slides"
+      href: slides.html
+output:
+  html_document:
+    theme: simplex
+    include:
+      after_body: footer.html
