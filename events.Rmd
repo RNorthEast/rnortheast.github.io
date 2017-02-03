@@ -2,9 +2,17 @@
 title: "Events"
 ---
 
+## Upcoming events
 
+Venue: Campus North. Meetings start 6:00pm and finish around 7:30pm
 
-Our next event is planned for February 2017. Details TBC
+Date        | Speakers | Topics          
+----------- | -------- | --------------- 
+10-Apr-17   | TBC      |
+12-Jun-17   | TBC      |
+14-Aug-17   | TBC      |
+09-Oct-17   | TBC      |
+11-Dec-17   | TBC      |
 
 ## Past events
 
