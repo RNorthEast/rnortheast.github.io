@@ -10,7 +10,7 @@ Date        | Speakers | Topics
 ----------- | -------- | --------------- 
 10-Apr-17   | [Matt Bashton](https://twitter.com/MattBashton)      | Shiny based brain tumour classifier
    ~          | Gholamreza Rafiee                                    | Practical subgrouping
-12-Jun-17   | TBC      |
+12-Jun-17   | [Roman Popet](https://twitter.com/rmnppt) |
 14-Aug-17   | TBC      |
 09-Oct-17   | TBC      |
 11-Dec-17   | TBC      |
