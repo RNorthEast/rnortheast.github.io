@@ -8,8 +8,6 @@ Venue: Campus North. Meetings start 6:00pm and finish around 7:30pm
 
 Date        | Speakers | Topics          
 ----------- | -------- | --------------- 
-10-Apr-17   | [Matt Bashton](https://twitter.com/MattBashton)      | Shiny based brain tumour classifier
-   ~          | Gholamreza Rafiee                                    | Practical subgrouping
 12-Jun-17   | [Roman Popat](https://twitter.com/rmnppt) |
 14-Aug-17   | TBC      |
 09-Oct-17   | [Robin Lovelace](https://www.its.leeds.ac.uk/people/r.lovelace) | Spatial data and R
@@ -19,6 +17,8 @@ Date        | Speakers | Topics
 
 Date        | Speakers | Topics          | Venue
 ----------- | -------- | --------------- | -----
+10-Apr-17   | [Matt Bashton](https://twitter.com/MattBashton)      | Shiny based brain tumour classifier
+   ~          | Gholamreza Rafiee                                    | Practical subgrouping
 12-Dec-16 | [Tim Brock](https://twitter.com/TimBrock_DtD) & [Rosie Hamilton](https://twitter.com/Rosicadia) | Assignments, Twitter mining and sentiment analysis |Campus North
 10-Oct-16   | [Siddhant Baviskar](https://twitter.com/siddhantfri3nds)| 1 year Birthday party | Campus North
 12-Sep-16   | [Colin Gillespie](https://twitter.com/csgillespie)| Optimising R and Benchmarkme package | Campus North 
