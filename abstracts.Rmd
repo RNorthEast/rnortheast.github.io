@@ -1,0 +1,9 @@
+---
+title: "Abstracts"
+---
+
+### Roman Popat (12-Jun-17)
+
+__Automated detection of potholes using R__
+
+I will describe a project in collaboration with a software company called xDesign who are building a system to monitor road quality. I will present some promising results from an experiment where xDesign proved it was possible to detect potholes using mobile phone accelerometer when the phone was mounted on the dashboard. I will describe the statistical methodology in R which involved concepts of distance between two time series `library(TSclust)`, compression of high dimensional data for visualisation `library(Rtsne)` and tree-based supervised learning `library(randomForest)`.
