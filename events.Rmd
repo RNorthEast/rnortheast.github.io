@@ -8,7 +8,7 @@ Venue: Campus North. Meetings start 6:00pm and finish around 7:30pm
 
 Date        | Speakers | Topics          | Venue
 ----------- | -------- | --------------- |-------
-12-Jun-17   | [Roman Popat](https://twitter.com/rmnppt) | | Campus North 
+12-Jun-17   | [Roman Popat](https://twitter.com/rmnppt) | Automated detection of potholes using R ([abstract](abstracts.html))| Campus North 
 26-Jun-17   | [Steph Locke](https://twitter.com/SteffLocke) | [Introduction to R](https://www.eventbrite.co.uk/e/intro-to-r-hosted-by-newcastle-r-sql-groups-tickets-33708964420) (9am to 5:30pm) |Room 3.19, [Herschel building](https://t.co/ijyHaakhK9).
 26-Jun-17   | [Steph Locke](https://twitter.com/SteffLocke) | Data + Docker | Room 3.19, [Herschel building](https://t.co/ijyHaakhK9).
 14-Aug-17   | TBC      | |
