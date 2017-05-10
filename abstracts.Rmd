@@ -7,3 +7,17 @@ title: "Abstracts"
 __Automated detection of potholes using R__
 
 I will describe a project in collaboration with a software company called xDesign who are building a system to monitor road quality. I will present some promising results from an experiment where xDesign proved it was possible to detect potholes using mobile phone accelerometer when the phone was mounted on the dashboard. I will describe the statistical methodology in R which involved concepts of distance between two time series `library(TSclust)`, compression of high dimensional data for visualisation `library(Rtsne)` and tree-based supervised learning `library(randomForest)`.
+
+
+### Steph Locke (26-Jun-17)
+
+__Data + Docker = Discombobulating?__
+
+If you’re like me, you like your data to stick around for a long time and most importantly you want to know it’s safe.
+
+In the Docker world, there’s the maxim of “never patch”, always make a new container with the latest version of the application. If we’re sticking in our database in a container like Microsoft are doing with SQL Server now, what happens when we need to apply the latest patches? Will we lose our data?
+
+In this talk, we’ll look at the sorts of data we need to think about (it’s not just databases!) and how Docker containers work. We’ll then look at how we can save our data from disappearing when we load a new version of our Docker container. Once we know how to safeguard ourselves, we’ll look at some of the architectural options you have when working with data and Docker.
+
+__Bio__ Steph Locke leads a life of data, coffee, books and board games. During the day, Steph runs her own data consultancy helping people get better with data. Steph enjoys being her own gal as it means she gets to spend plenty of time building communities to provide platforms for people to help each other be better with data.
+

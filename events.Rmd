@@ -10,7 +10,7 @@ Date        | Speakers | Topics          | Venue | Sign-up
 ----------- | -------- | --------------- |-------|--------
 12-Jun-17   | [Roman Popat](https://twitter.com/rmnppt) | Automated detection of potholes using R ([abstract](abstracts.html))| Campus North | [attending.io](https://attending.io/events/r-north-june-12-2017)
 26-Jun-17   | [Steph Locke](https://twitter.com/SteffLocke) | [Introduction to R](https://www.eventbrite.co.uk/e/intro-to-r-hosted-by-newcastle-r-sql-groups-tickets-33708964420) (9am to 5:30pm) |Room 3.19, [Herschel building](https://t.co/ijyHaakhK9). | [eventbrite](https://www.eventbrite.co.uk/e/introduction-to-r-hosted-by-newcastle-r-sql-groups-tickets-33708964420)
-26-Jun-17   | [Steph Locke](https://twitter.com/SteffLocke) | Data + Docker | Room 3.19, [Herschel building](https://t.co/ijyHaakhK9). | [attending.io](https://attending.io/events/r-north-june-26-2017)
+26-Jun-17   | [Steph Locke](https://twitter.com/SteffLocke) | Data + Docker = Discombobulating? ([abstract](abstracts.html))| Room 3.19, [Herschel building](https://t.co/ijyHaakhK9). | [attending.io](https://attending.io/events/r-north-june-26-2017)
 14-Aug-17   | TBC      | | |
 09-Oct-17   | [Robin Lovelace](https://www.its.leeds.ac.uk/people/r.lovelace) | Spatial data and R | Campus North  |
 11-Dec-17   | TBC      |  | |
