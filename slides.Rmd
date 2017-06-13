@@ -11,4 +11,4 @@ Date        | Speaker  | Slides
 10-Apr-17   | [Matthew Bashton](https://twitter.com/mattbashton) | [Shiny based medulloblastoma subgroup classifier](slides/MattBashton_R_NE_talk.pdf)
 10-Apr-17    | [Reza Rafiee](https://twitter.com/gh_rafiee) | [Practical Subgrouping in Medulloblastoma](slides/RezaRafiee_MIMIC_100417.pdf)
 12-Dec-16   | [Tim Brock](https://twitter.com/TimBrock_DtD) | [Assignments in R](http://datatodisplay.com/scrapbook/assignments/)
-12-Dec-16   |  [Rosie Hamilton](https://twitter.com/Rosicadia) | [Twitter Mining & Sentiment Analysis](fslides/twittermining.odp)
+12-Dec-16   |  [Rosie Hamilton](https://twitter.com/Rosicadia) | [Twitter Mining & Sentiment Analysis](slides/2016_12_rosie.odp)
