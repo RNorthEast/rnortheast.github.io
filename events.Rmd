@@ -9,7 +9,7 @@ Venue: Campus North. Meetings start 6:00pm and finish around 7:30pm
 Date        | Speakers | Topics          | Venue | Sign-up
 ----------- | -------- | --------------- |-------|--------
 09-Oct-17   | [Robin Lovelace](https://www.its.leeds.ac.uk/people/r.lovelace) | Spatial data and R | Campus North  |
-11-Dec-17   | Richard Perry      |  | |
+11-Dec-17   | Richard Perry      | Using R for life improvement | |
 
 ## Past events
 
