@@ -8,7 +8,7 @@ Venue: Campus North. Meetings start 6:00pm and finish around 7:30pm
 
 Date        | Speakers | Topics          | Venue | Sign-up
 ----------- | -------- | --------------- |-------|--------
-11-Dec-17   | Richard Perry      | Using R for Life Improvement | Campus North | 
+11-Dec-17   | Richard Perry      | Using R for Life Improvement | Campus North | [attending.io](https://attending.io/events/r-north-east-user-group-79092920-3f12-4974-974d-43403cb58fe7)
 -   | [Theo Roe](https://twitter.com/theoJRivers1) | An Intro to Timing in R | -  |
 
 ## Past events
