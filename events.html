@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -231,31 +233,17 @@ Time: Meetings start 6:00pm and finish around 7:30pm.</p>
 </thead>
 <tbody>
 <tr class="odd">
-<td>11-Dec-17</td>
-<td>Richard Perry</td>
-<td>Using R for Life Improvement</td>
-<td>Campus North</td>
-<td><a href="https://attending.io/events/r-north-east-user-group-79092920-3f12-4974-974d-43403cb58fe7">attending.io</a></td>
-</tr>
-<tr class="even">
-<td>-</td>
-<td><a href="https://twitter.com/theoJRivers1">Theo Roe</a></td>
-<td>An Intro to Timing in R</td>
-<td>-</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>12-Feb-18</td>
-<td></td>
-<td></td>
-<td>Campus North</td>
-<td></td>
-</tr>
-<tr class="even">
 <td>09-Apr-18</td>
-<td></td>
-<td></td>
+<td>Joy Mckenny</td>
+<td>Using R to Understand Sewer Network Performance</td>
 <td>Campus North</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>-</td>
+<td>Colin Gillespie</td>
+<td>20 Years of CRAN</td>
+<td>-</td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -307,6 +295,18 @@ Time: Meetings start 6:00pm and finish around 7:30pm.</p>
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td>11-Dec-17</td>
+<td>Richard Perry</td>
+<td>Using R for Life Improvement</td>
+<td>Campus North</td>
+</tr>
+<tr class="even">
+<td>-</td>
+<td><a href="https://twitter.com/theoJRivers1">Theo Roe</a></td>
+<td>An Intro to Timing in R</td>
+<td>-</td>
+</tr>
 <tr class="odd">
 <td>09-Oct-17</td>
 <td><a href="https://twitter.com/theoJRivers1">Theo Roe</a></td>

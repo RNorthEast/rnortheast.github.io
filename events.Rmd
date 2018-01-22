@@ -10,10 +10,8 @@ Time: Meetings start 6:00pm and finish around 7:30pm.
 
 Date        | Speakers | Topics          | Venue | Sign-up
 ----------- | -------- | --------------- |-------|--------
-11-Dec-17   | Richard Perry      | Using R for Life Improvement | Campus North | [attending.io](https://attending.io/events/r-north-east-user-group-79092920-3f12-4974-974d-43403cb58fe7)
--   | [Theo Roe](https://twitter.com/theoJRivers1) | An Intro to Timing in R | -  |
-12-Feb-18 | | |  Campus North|
-09-Apr-18 | | |  Campus North|
+09-Apr-18 |Joy Mckenny | Using R to Understand Sewer Network Performance |  Campus North|
+- | Colin Gillespie | 20 Years of CRAN |  - |
 11-Jun-18 | | |  Campus North|
 13-Aug-18 | | |  Campus North|
 08-Oct-18 | | |  Campus North|
@@ -23,6 +21,8 @@ Date        | Speakers | Topics          | Venue | Sign-up
 
 Date        | Speakers | Topics          | Venue
 ----------- | -------- | --------------- | -----
+11-Dec-17   | Richard Perry      | Using R for Life Improvement | Campus North 
+-   | [Theo Roe](https://twitter.com/theoJRivers1) | An Intro to Timing in R | -  
 09-Oct-17   | [Theo Roe](https://twitter.com/theoJRivers1) | The trouble with tibbles | Campus North  
 09-Oct-17   | [Robin Lovelace](https://www.its.leeds.ac.uk/people/r.lovelace) | Spatial data and R | Campus North
 26-Jun-17   | [Steph Locke](https://twitter.com/SteffLocke) | Data + Docker = Discombobulating? ([abstract](abstracts.html))| Room G17, [Armstrong building](https://goo.gl/maps/5urCxK846eE2)
