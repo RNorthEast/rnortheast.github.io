@@ -9,10 +9,6 @@ navbar:
       href: events.html
     - text: "Slides"
       href: slides.html
-    - text: "Slack"
-      href: https://rslackinviter.herokuapp.com/
-    - text: "Mailing list"
-      href: http://eepurl.com/cGQGAL
 output:
   html_document:
     theme: simplex

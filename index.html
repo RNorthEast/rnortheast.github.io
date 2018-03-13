@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -184,12 +186,6 @@ $(document).ready(function () {
 <li>
   <a href="slides.html">Slides</a>
 </li>
-<li>
-  <a href="https://rslackinviter.herokuapp.com/">Slack</a>
-</li>
-<li>
-  <a href="http://eepurl.com/cGQGAL">Mailing list</a>
-</li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         
@@ -210,10 +206,14 @@ $(document).ready(function () {
 <!-- http://rmarkdown.rstudio.com/rmarkdown_websites.html -->
 <p>Welcome to the home of R North East an R user group based in Newcastle.</p>
 <p>Here you’ll find information about upcoming talks and <a href="events.html">events</a>. Our group usually meets up once every two months.</p>
-<p>You can find us on Twitter <a href="https://twitter.com/RstatsNE">@RstatsNE</a> and we also have a <a href="https://rslackinviter.herokuapp.com/">Slack chat</a></p>
-<p>We are always looking for new speakers so please get in touch if you are interested in giving a talk at our meet up.</p>
+<p>You can find us on Twitter <a href="https://twitter.com/RstatsNE">@RstatsNE</a></p>
+<p>IMPORTANT ANNOUNCEMENT:</p>
+<p>The R North East group has now merged with the <a href="https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/">Data Science Meetup Group</a>. You’ll still be able to see the schedule for all the relevant R talks here but the official meetup event will be on the Data Science meetup page. We shall also be removing the mailing list so if you wish to contact us please do so through the Data Science meetup.</p>
 <div style="width:512px; height=384px">
 <img src="img/group.jpg" />
+</div>
+<div style="width:512px; height=384px">
+<img src="img/rcon.png" />
 </div>
 
 <style>
@@ -225,7 +225,7 @@ $(document).ready(function () {
 
 
 
-<div class="footer"><hr />R North East is sponsored by <a href="http://www.jumpingrivers.com">Jumping Rivers</a>.</div>
+<div class="footer"><hr />R North East is sponsored by <a href="http://www.jumpingrivers.com">Jumping Rivers</a> and the <a href = "https://www.r-consortium.org/">R Consortium</a>.</div>
 
 
 

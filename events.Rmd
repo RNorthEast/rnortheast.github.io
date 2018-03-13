@@ -3,14 +3,13 @@ title: "Events"
 ---
 
 ## Upcoming events
- 
+
 Venue: Campus North.    
-When: The second Monday of every other month.    
 Time: Meetings start 6:00pm and finish around 7:30pm.     
 
 Date        | Speakers | Topics          | Venue | Sign-up
 ----------- | -------- | --------------- |-------|--------
-09-Apr-18 |Joy Mckenny | Using R to Understand Sewer Network Performance |  Campus North| [Attending.io/rnortheast](https://attending.io/events/r-north-east-user-group-e0dcf5fc-d11a-4890-88c9-f5a49232d7db)
+09-Apr-18 |Joy Mckenny | Using R to Understand Sewer Network Performance |  Campus North| [meetup.com](https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/248694172/)
 - | Colin Gillespie | 20 Years of CRAN |  - |
 11-Jun-18 | | |  Campus North|
 13-Aug-18 | | |  Campus North|
